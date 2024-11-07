@@ -1,6 +1,5 @@
 # Dataset Putusan Pengadilan Negeri Yogyakarta - Kasus Narkotika dan Psikotropika
 
----
 Dataset ini berisi data putusan pengadilan untuk kasus yang berkaitan dengan narkotika dan psikotropika di Pengadilan Negeri Yogyakarta. Dataset ini berguna bagi peneliti, akademisi, praktisi hukum, serta pihak-pihak yang berkepentingan dalam menganalisis penanganan hukum terkait narkotika dan psikotropika di wilayah Yogyakarta. Berikut adalah penjelasan lengkap mengenai dataset ini.
 
 ## Struktur Data
@@ -26,6 +25,3 @@ Berikut adalah contoh data dalam dataset ini:
 
 ## Sumber Data
 Data ini dikumpulkan dari putusan yang tersedia di situs web resmi Direktori Putusan Mahkamah Agung Republik Indonesia  https://putusan3.mahkamahagung.go.id/. Setiap putusan dikumpulkan dan diolah agar informasi mengenai klasifikasi, jenis kasus, dan hasil keputusan dapat disajikan secara lengkap dan rapi.
-
----
-Semoga dokumentasi ini dapat membantu dalam memahami dan memanfaatkan dataset putusan pengadilan mengenai kasus narkotika dan psikotropika di Yogyakarta.
