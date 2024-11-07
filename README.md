@@ -1,4 +1,6 @@
 # Dataset Putusan Pengadilan Negeri Yogyakarta - Kasus Narkotika dan Psikotropika
+
+---
 Dataset ini berisi data putusan pengadilan untuk kasus yang berkaitan dengan narkotika dan psikotropika di Pengadilan Negeri Yogyakarta. Dataset ini berguna bagi peneliti, akademisi, praktisi hukum, serta pihak-pihak yang berkepentingan dalam menganalisis penanganan hukum terkait narkotika dan psikotropika di wilayah Yogyakarta. Berikut adalah penjelasan lengkap mengenai dataset ini.
 
 ## Struktur Data
@@ -18,12 +20,12 @@ Dataset ini dibuat dengan tujuan:
 
 ## Contoh Data
 Berikut adalah contoh data dalam dataset ini:
-
 | No | Nomor Putusan                | Lembaga Peradilan | Barang Bukti                                       | Amar Putusan                                                                                                                                  |
 |----|-------------------------------|-------------------|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | 2/Pid.Sus/2024/PN Yyk         | PN Yogyakarta    | 7 butir tablet OGB Dexa Alprazolam 1 mg bungkus warna | Menyatakan Terdakwa ARLIANSYAH WIHARTAMA alias IAN bin AZWAN WINARTO terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana "Menerima Penyerahan Psikotropika Bukan Dari Apotik, Rumah Sakit, Puskesmas dan Balai Pengobatan serta Tidak Menggunakan Resep Dokter"; Menjatuhkan pidana kepada Terdakwa ARLIANSYAH WIHARTAMA alias IAN bin AZWAN WINARTO tersebut, oleh karena itu dengan pidana penjara selama 8 (delapan) bulan dan denda Rp. 5.000.000,00 (lima juta rupiah) dengan ketentuan apabila denda tersebut tidak dibayar maka diganti dengan pidana kurungan selama 2 (dua) bulan; Menetapkan masa penangkapan dan penahanan yang telah dijalani Terdakwa dikurangkan seluruhnya dari pidana yang dijatuhkan; Menetapkan terdakwa tetap dalam tahanan; Menetapkan barang bukti berupa: - 7 (tujuh0 butir tablet OGB Dexa Alprazolam 1 mg bungkus warna merah; Dirampas untuk dimusnahkan; Membebankan kepada Terdakwa untuk membayar biaya perkara sebesar Rp. 2.000,00 (dua ribu rupiah); |
+| 1  | 2/Pid.Sus/2024/PN Yyk         | PN Yogyakarta    | 7 butir tablet OGB Dexa Alprazolam 1 mg bungkus warna | Menyatakan Terdakwa ARLIANSYAH WIHARTAMA alias IAN bin AZWAN WINARTO bersalah dan mendapatkan hukuman yang sesuai dengan ketentuan yang berlaku |
 
 ## Sumber Data
-Data ini dikumpulkan dari putusan yang tersedia di situs web resmi Pengadilan Negeri Yogyakarta. Setiap putusan dikumpulkan dan diolah agar informasi mengenai klasifikasi, jenis kasus, dan hasil keputusan dapat disajikan secara lengkap dan rapi.
+Data ini dikumpulkan dari putusan yang tersedia di situs web resmi Direktori Putusan Mahkamah Agung Republik Indonesia  https://putusan3.mahkamahagung.go.id/. Setiap putusan dikumpulkan dan diolah agar informasi mengenai klasifikasi, jenis kasus, dan hasil keputusan dapat disajikan secara lengkap dan rapi.
 
+---
 Semoga dokumentasi ini dapat membantu dalam memahami dan memanfaatkan dataset putusan pengadilan mengenai kasus narkotika dan psikotropika di Yogyakarta.
